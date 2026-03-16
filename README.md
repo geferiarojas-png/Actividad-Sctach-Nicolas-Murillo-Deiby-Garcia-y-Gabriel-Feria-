@@ -9,5 +9,5 @@
 ## Tema
 Recreación de AmongUs en scratch, con la particularidad de agregar algo que nosoreos quisieramos.
 
-# Conreoles
+## Controles
 Te mueves a traves de las flechas, y apuntas tu MACHETE con el mouse.
